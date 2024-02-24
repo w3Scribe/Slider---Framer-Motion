@@ -31,9 +31,9 @@ export const metadata: Metadata = {
       "Experience a seamless and interactive web experience with our custom slider. Built with cutting-edge technologies like React.js, Next.js, and Tailwind CSS, our slider offers smooth transitions powered by Framer Motion. Perfect for image galleries, product showcases, and more. Explore now!",
     type: "website",
     siteName: "Custom Slider | Framer Motion | Tailwind",
-    url: "https://yourwebsite.com/your-page-url",
+    url: "https://custom-slider-framer-motion-nextjs-typescript.vercel.app",
     images: {
-      url: "https://yourwebsite.com/path-to-your-image.jpg",
+      url: "./demo.png",
       width: 1260,
       height: 800,
       alt: "Custom Slider Using Framer Motion React Js and more...",
